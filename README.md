@@ -20,6 +20,4 @@ I'm a dedicated and solution-oriented junior .NET developer, focused on building
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
 </p>
 
----
-
 ### 🖥️ Check out my projects 👇

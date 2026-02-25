@@ -2,6 +2,8 @@
 
 I'm a dedicated and solution-oriented junior .NET developer, focused on building a solid foundation in software development and creating efficient, maintainable and user-friendly solutions.
 
+🌐 Live portfolio: [www.hannamickels.com](https://www.hannamickels.com/)
+
 ## 🛠️ Tech & tools
 
 <p>
